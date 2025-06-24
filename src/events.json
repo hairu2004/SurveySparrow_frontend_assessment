@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Team Meeting",
+        "date": "2025-06-23",
+        "time": "10.00",
+        "duration":"1h"
+    },
+    {
+        "title":"Frontend interview prep",
+        "date":"2025-06-24",
+        "time":"14.00",
+        "duration":"1h"
+    },
+    {
+        "title":"mentor session",
+        "date":"2025-06-25",
+        "time":"15.00",
+        "duration":"1h"
+    }
+]
