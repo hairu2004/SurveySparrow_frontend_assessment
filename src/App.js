@@ -14,8 +14,6 @@ import {
   Pencil,
   BarChart2,
   ChevronDown,
-  ChevronUp,
-  X,
 } from "lucide-react";
 
 function App() {
